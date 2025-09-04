@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Snake and Ladder 3D",
+"productVersion": "0.1",
+"dataUrl": "Snake_&_Ladder_3D.data.unityweb",
+"wasmCodeUrl": "Snake_&_Ladder_3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Snake_&_Ladder_3D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
